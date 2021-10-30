@@ -1,0 +1,20 @@
+{
+  "engineName": "my-transcript-serach",
+  "endpointBase": "https://transcript-search.ent.us-central1.gcp.cloud.es.io",
+  "searchKey": "search-ctibpchkupi5hei16ieajp8j",
+  "resultFields": [
+    "episode_number",
+    "episode_title",
+    "transcirpt",
+    "released_date",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+    "episode_number",
+    "episode_title"
+  ],
+  "titleField": "transcirpt"
+}
